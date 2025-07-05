@@ -1,7 +1,6 @@
 <h1 align="center">👨‍💻 Hendryw Henry</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"> 
   <strong>Estudante de Ciência de Dados | Foco em Análise de Dados</strong>
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60">
 </p>
@@ -33,7 +32,7 @@
 ## 🚀 Objetivo Profissional
 
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" />  
-**Meu objetivo é crescer como profissional de _Análise de Dados_, transformando dados em decisões estratégicas e contribuindo com soluções inteligentes.**
+Meu objetivo é crescer como profissional de Análise de Dados, transformando dados em decisões estratégicas e contribuindo com soluções inteligentes.
 
 ---
 
@@ -70,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
   <br>
   <b>Obrigado por visitar meu perfil!</b>
 </p>
